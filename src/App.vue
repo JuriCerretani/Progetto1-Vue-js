@@ -14,12 +14,10 @@ export default {
 </script>
 
 <style lang="scss">
-
   body {
     margin: 0;
     background-color: #EFE6F2;
     font-family: "Arial", sans-serif;
     text-align: center;
   }
-
 </style>
